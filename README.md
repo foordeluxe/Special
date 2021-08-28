@@ -25,14 +25,14 @@ Uncompressed: 967,9 MB
 This rule contains @ and then 0-9 up to 9999 numbers. I have got a lot of hits with this.  
 The rule would look like this: @243 in end when adding to the wordlist.  
 
-[Download from Github](https://github.com/foordeluxe/Special/blob/main/snail_numeric.rule)
+[Download from my Github](https://github.com/foordeluxe/Special/blob/main/snail_numeric.rule)
 
 ### 1) Snail Numeric First Uppercase  
 
 This rule is exactly like Snail Numeric BUT will use the first character a-z and convert to A-Z.  
 Also a uppercase converting on the first character.  
   
-[Download from Github](https://github.com/foordeluxe/Special/blob/main/snail_numeric_firstuppercase.rule)  
+[Download from my Github](https://github.com/foordeluxe/Special/blob/main/snail_numeric_firstuppercase.rule)  
   
 ### 2) Special Rule v2  
   
@@ -40,7 +40,7 @@ In this rule I have converted every special character that exists into a rule fi
 I have had some hits with this rule and sometime not.  
 If there is something that is wrong in this rule, please tell me that. Because I'm new when coming to making rules.  
   
-[Download from this github](https://github.com/foordeluxe/Special/blob/main/specialRulev2.rule)  
+[Download from my Github](https://github.com/foordeluxe/Special/blob/main/specialRulev2.rule)  
 
 Anyway, let's list which characters this rule contains (Too much information):  
 ```^
