@@ -30,7 +30,7 @@ The rule would look like this: @243 in end when adding to the wordlist.
 ### 1) Snail Numeric First Uppercase  
 
 This rule is exactly like Snail Numeric BUT will use the first character a-z and convert to A-Z.  
-Also a uppercase converting on the first character.  
+Also an uppercase converting on the first character.  
   
 [Download from my Github](https://github.com/foordeluxe/Special/blob/main/snail_numeric_firstuppercase.rule)  
   
