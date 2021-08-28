@@ -19,4 +19,52 @@ Uncompressed: 967,9 MB
   
 ## Rules  
 
-Coming soon  
+### Special Rule v2  
+In this rule I have converted every special character that exists into a rule file.  
+I have had some hits with this rule and sometime not.  
+If there is something that is wrong in this rule, please tell me that. Because I'm new when coming to making rules.  
+  
+[Download from this github](https://github.com/foordeluxe/Special/blob/main/specialRulev2.rule)  
+
+Anyway, let's list which characters this rule contains (Too much information):  
+```^
+!
+@
+?
+(
+)
+[
+]
+#
+/
+\
+`
+´
++
+-
+_
+,
+.
+>
+<
+|
+%
+&
+{
+}
+=
+$
+"
+*
+'
+€
+£
+¥
+~
+¶
+§
+÷
+;
+Space
+```
+
