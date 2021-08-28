@@ -10,4 +10,4 @@ Contains scraped nicknames.
 
 Compressed: 242,2 MB   
 Uncompressed: 967,9 MB   
-[Download](https://mega.nz/file/BvwjiCaB#6YtNt2TGyGWf7tIzB4jLjtqhpov8r0o5RASqwK3IugI)  
+[Download from mega.nz](https://mega.nz/file/BvwjiCaB#6YtNt2TGyGWf7tIzB4jLjtqhpov8r0o5RASqwK3IugI)  
