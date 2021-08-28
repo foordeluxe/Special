@@ -19,7 +19,15 @@ Uncompressed: 967,9 MB
   
 ## Rules  
 
-### 0) Special Rule v2  
+
+### 0) Snail Numeric  
+
+This rule contains @ and then 0-9 up to 9999 numbers. I have got a lot of hits with this.  
+The rule would look like this: @243 in end when adding to the wordlist.  
+
+[Download from Github]()
+
+### 1) Special Rule v2  
 In this rule I have converted every special character that exists into a rule file.  
 I have had some hits with this rule and sometime not.  
 If there is something that is wrong in this rule, please tell me that. Because I'm new when coming to making rules.  
