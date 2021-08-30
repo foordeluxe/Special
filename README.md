@@ -16,9 +16,9 @@ Uncompressed: 967,9 MB
 
 [Download anything from mega.nz](https://mega.nz/folder/F2BGyDAD#5V4YuGI7UIIyRFP0Zz2uWg)  
   
-### 2) Car Brands in (a-z)
+### 2) Car Brands (a-z) made from wikipedia and various sites.
 
-[Downlod from my Github](https://github.com/foordeluxe/Special/blob/main/carmodels.txt)
+[Downlod from my Github](https://github.com/foordeluxe/Special/blob/main/carbrands.txt)
   
 ## Rules  
 
