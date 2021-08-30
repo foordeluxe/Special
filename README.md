@@ -16,7 +16,7 @@ Uncompressed: 967,9 MB
 
 [Download anything from mega.nz](https://mega.nz/folder/F2BGyDAD#5V4YuGI7UIIyRFP0Zz2uWg)  
   
-### 2) Car Models in (a-z)
+### 2) Car MBrands in (a-z)
 
 [Downlod from my Github](https://github.com/foordeluxe/Special/blob/main/carmodels.txt)
   
