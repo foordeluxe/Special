@@ -39,7 +39,7 @@ Fixed in v2: added as example 0001 or 01.
 This rule is exactly like Snail Numeric BUT will use the first character a-z and convert to A-Z.  
 Also an uppercase converting on the first character.  
   
-[Download from my Github](https://github.com/foordeluxe/Special/blob/main/snail_numericfirstuppercasev2.rule)  
+[Download from my Github](https://github.com/foordeluxe/Special/blob/main/snailnumericuppercaserulev2.rule)  
   
 ### 2) Special Rule v3  
   
