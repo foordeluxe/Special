@@ -23,27 +23,32 @@ Uncompressed: 967,9 MB
 ## Rules  
 
 
-### 0) Snail Numeric  
+### 0) Snail Numeric  v2
+
+Fixed in v2: added as example 0001 or 01.
 
 This rule contains @ and then 0-9 up to 9999 numbers. I have got a lot of hits with this.  
 The rule would look like this: @243 in end when adding to the wordlist.  
 
-[Download from my Github](https://github.com/foordeluxe/Special/blob/main/snail_numeric.rule)
+[Download from my Github](https://github.com/foordeluxe/Special/blob/main/snailnumericv2.rule)
 
-### 1) Snail Numeric First Uppercase  
-
+### 1) Snail Numeric First Uppercase v2 
+  
+Fixed in v2: added as example 0001 or 01.  
+  
 This rule is exactly like Snail Numeric BUT will use the first character a-z and convert to A-Z.  
 Also an uppercase converting on the first character.  
   
-[Download from my Github](https://github.com/foordeluxe/Special/blob/main/snail_numeric_firstuppercase.rule)  
+[Download from my Github](https://github.com/foordeluxe/Special/blob/main/snail_numericfirstuppercasev2.rule)  
   
-### 2) Special Rule v2  
+### 2) Special Rule v3  
+  
+Fixed in v3: Added some other rules that use special chars.  
   
 In this rule I have converted every special character that exists into a rule file.  
 I have had some hits with this rule and sometime not.  
-If there is something that is wrong in this rule, please tell me that. Because I'm new when coming to making rules.  
   
-[Download from my Github](https://github.com/foordeluxe/Special/blob/main/specialRulev2.rule)  
+[Download from my Github](https://github.com/foordeluxe/Special/blob/main/specialRulev3.rule)  
 
 Anyway, let's list which characters this rule contains (Too much information):  
 ```^
