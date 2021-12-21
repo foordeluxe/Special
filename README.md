@@ -50,45 +50,6 @@ I have had some hits with this rule and sometime not.
   
 [Download from my Github](https://github.com/foordeluxe/Special/blob/main/specialRulev3.rule)  
 
-Anyway, let's list which characters this rule contains (Too much information):  
-```^
-!
-@
-?
-(
-)
-[
-]
-#
-/
-\
-`
-´
-+
--
-_
-,
-.
->
-<
-|
-%
-&
-{
-}
-=
-$
-"
-*
-'
-€
-£
-¥
-~
-¶
-§
-÷
-;
-Space
-```
+Anyway, let's list which characters this rule contains:  
+```! @ ? ( ) [ ] # / \ ` ´ + - _ , . > < | % & { } = $ " * ' € £ ¥ ~ ¶ § ÷ ; Space```
 
