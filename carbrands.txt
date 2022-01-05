@@ -10,6 +10,8 @@ aixam
 alatac
 alesbury
 alfa
+alfa romeo
+alfaromeo
 allard
 alpina
 alpine
@@ -39,6 +41,8 @@ askam
 aspark
 aspid
 aston
+aston martin
+astonmartin
 atalanta
 auburn
 audi
@@ -323,6 +327,8 @@ lamborghini
 lanchester
 lancia
 land
+land rover
+landrover
 landwind
 laraki
 leitch
@@ -348,6 +354,7 @@ lyons
 mack
 magirus
 mahindra
+make
 man
 mansory
 marauder
@@ -374,6 +381,7 @@ meeussen
 melex
 melkus
 mercedes
+mercedesbenz
 mercury
 merkur
 messerschmitt
@@ -464,6 +472,7 @@ rinspeed
 rivian
 roewe
 rolls
+rollsroyce
 ronart
 rosenbauer
 rossion
@@ -506,6 +515,7 @@ speranza
 spirra
 springuel
 spyker
+srt
 ssangyong
 ssc
 standard
