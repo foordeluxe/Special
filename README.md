@@ -53,3 +53,9 @@ I have had some hits with this rule and sometime not.
 Anyway, let's list which characters this rule contains:  
 ```! @ ? ( ) [ ] # / \ ` ´ + - _ , . > < | % & { } = $ " * ' € £ ¥ ~ ¶ § ÷ ; Space```
 
+
+### Some of my wordlists comes from various of places. Here is a list from their projects.  
+  
+[mobilephone-brands-and-models](https://github.com/ilyasozkurt/mobilephone-brands-and-models)  
+[us-car-models-data](https://github.com/abhionlyone/us-car-models-data)  
+
