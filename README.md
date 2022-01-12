@@ -21,8 +21,9 @@ Uncompressed: 967,9 MB
 [Car brands](https://github.com/foordeluxe/Special/blob/main/carbrands.txt)
 
 ### 3) Phone Devices with or without spaces.  
-[Phone Devices with space](https://github.com/foordeluxe/Special/blob/main/wwphone.txt)
-[Phone Devised without space](https://github.com/foordeluxe/Special/blob/main/wwphone_nospace.txt)
+  
+[Phone Devices with space](https://github.com/foordeluxe/Special/blob/main/wwphone.txt)  
+[Phone Devised without space](https://github.com/foordeluxe/Special/blob/main/wwphone_nospace.txt)  
   
 ## Rules  
 
