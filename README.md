@@ -22,7 +22,9 @@ Uncompressed: 967,9 MB
 
 ### 3) Phone Devices with or without spaces.  
   
-[Phone Devices with space](https://github.com/foordeluxe/Special/blob/main/wwphone.txt)  
+Changes: Removed special chars from lists.  
+
+[Phone Devices with space](https://github.com/foordeluxe/Special/blob/main/wwphone_space.txt)  
 [Phone Devices without space](https://github.com/foordeluxe/Special/blob/main/wwphone_nospace.txt)  
   
 ## Rules  
