@@ -26,6 +26,10 @@ Changes: Removed special chars from lists.
 
 [Phone Devices with space](https://github.com/foordeluxe/Special/blob/main/wwphone_space.txt)  
 [Phone Devices without space](https://github.com/foordeluxe/Special/blob/main/wwphone_nospace.txt)  
+
+### 4) Soccer Teams  
+
+[Soccer Teams](https://github.com/foordeluxe/Special/blob/main/soccerv3.txt)  
   
 ## Rules  
 
