@@ -33,8 +33,14 @@ Changes: Removed special chars from lists.
   
 ## Rules  
 
+### 0) File Extensions Rule  
+  
+A rule with the most common File Extensions. As a rule file.  
 
-### 0) Snail Numeric  v2
+[Download from my Github](https://github.com/foordeluxe/Special/blob/main/file_extensions.rule)  
+
+
+### 1) Snail Numeric  v2
 
 Fixed in v2: added as example 0001 or 01.
 
@@ -43,7 +49,7 @@ The rule would look like this: @243 in end when adding to the wordlist.
 
 [Download from my Github](https://github.com/foordeluxe/Special/blob/main/snailnumericv2.rule)
 
-### 1) Snail Numeric First Uppercase v2 
+### 2) Snail Numeric First Uppercase v2 
   
 Fixed in v2: added as example 0001 or 01.  
   
@@ -52,7 +58,7 @@ Also an uppercase converting on the first character.
   
 [Download from my Github](https://github.com/foordeluxe/Special/blob/main/snailnumericuppercaserulev2.rule)  
   
-### 2) Special Rule v3  
+### 3) Special Rule v3  
   
 Fixed in v3: Added some other rules that use special chars.  
   
