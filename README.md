@@ -5,7 +5,7 @@
 Contains real baby names from all different of countries.  
 Contains real first names from all different of countries.  
 Contains real last names from all different of countries. 
-Contains english pet names.
+Contains english pet names.  
 Contains scraped Minecraft nicknames.  
 Contains scraped nicknames. 
 
